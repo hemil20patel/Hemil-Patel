@@ -1,0 +1,29 @@
+<svg width="660" height="140" viewBox="0 0 660 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">HEMIL Logo</title>
+  <desc id="desc">Minimal futuristic HEMIL wordmark in white with a metallic accent on the M.</desc>
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5F5F5"/>
+      <stop offset="38%" stop-color="#B7B7B7"/>
+      <stop offset="72%" stop-color="#666666"/>
+      <stop offset="100%" stop-color="#D9D9D9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- H -->
+  <path d="M20 24H38V61H104V24H122V116H104V79H38V116H20V24Z" fill="#FFFFFF"/>
+
+  <!-- E -->
+  <path d="M158 24H260V42H176V61H247V79H176V98H260V116H158V24Z" fill="#FFFFFF"/>
+
+  <!-- M outer structure -->
+  <path d="M298 116V24H320L359 72L398 24H420V116H402V52L367 95H351L316 52V116H298Z" fill="#FFFFFF"/>
+  <!-- Metallic inner fold accent -->
+  <path d="M359 72L398 24H420L368 91C365 95 360 97 356 97C352 97 348 95 345 91L329 71L341 55L359 72Z" fill="url(#metal)" opacity="0.96"/>
+
+  <!-- I -->
+  <path d="M458 24H478V116H458V24Z" fill="#FFFFFF"/>
+
+  <!-- L -->
+  <path d="M516 24H536V98H638V116H516V24Z" fill="#FFFFFF"/>
+</svg>
